@@ -1,5 +1,19 @@
 ## Hi there 👋
-
+<br>
+<br>
+We are Extrap
+<br>
+<br>
+We craft custom solutions to empower your business.
+<br>
+<br>
+Our Services:
+<br>
+<br>
+Web Development | Mobile Applications | Desktop Applications | Cybersecurity  Consultancy | AI | Branding
+<br>
+<br>
+ #GrowWithExtrap
 <!--
 
 **Here are some ideas to get you started:**
