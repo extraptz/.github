@@ -1,5 +1,5 @@
 ## Hi there 👋
-We are Extrap, the software development company based in Dar es Salaam, Tanzania.
+We are Extrap, the professional software development company based in Dar es Salaam, Tanzania.
 <br>
 <br>
 We craft custom sofware solutions to empower your business.
